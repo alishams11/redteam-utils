@@ -12,3 +12,5 @@ crow
 [2025-08-18 09:59:56.469307] Connection failed: [Errno 111] Connection refused
 [2025-08-18 10:00:01.469804] Connection failed: [Errno 111] Connection refused
 [2025-08-18 10:02:15.625938] Connection failed: [Errno 111] Connection refused
+[2025-08-20 11:01:05.896189] Connection failed: [Errno 104] Connection reset by peer
+[2025-08-20 11:01:10.901684] Connection failed: [Errno 111] Connection refused
